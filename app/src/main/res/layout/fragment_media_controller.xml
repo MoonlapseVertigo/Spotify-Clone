@@ -6,7 +6,7 @@
     android:orientation="vertical"
     >
 
-    <com.codingwithmitch.audiostreamer.MediaSeekBar
+    <com.galanosPli40.audiostreamer.MediaSeekBar
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/black_border_top"

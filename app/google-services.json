@@ -1,39 +1,36 @@
 {
   "project_info": {
-    "project_number": "330172065049",
-    "firebase_url": "https://audiostreamer-8bfdd.firebaseio.com",
-    "project_id": "audiostreamer-8bfdd",
-    "storage_bucket": "audiostreamer-8bfdd.appspot.com"
+    "project_number": "258263765247",
+    "project_id": "pli40-3743c",
+    "storage_bucket": "pli40-3743c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:330172065049:android:c9f3a95899014743",
+        "mobilesdk_app_id": "1:258263765247:android:dde4197d4b1c32810e3cca",
         "android_client_info": {
-          "package_name": "com.codingwithmitch.audiostreamer"
+          "package_name": "com.galanos.spotifyClone"
         }
       },
       "oauth_client": [
         {
-          "client_id": "330172065049-46odoie68nrdjpr7m028ef5c3uleld70.apps.googleusercontent.com",
+          "client_id": "258263765247-p6o5ouk56b0kdlgqkko45cb7s2khtjsv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCgQ7DLvBsMbACDMYGGIQbUeMunAsheu2U"
+          "current_key": "AIzaSyD1-_OAdb4y9jP-B98vEcZ8J5WtwoxBCEk"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258263765247-p6o5ouk56b0kdlgqkko45cb7s2khtjsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
